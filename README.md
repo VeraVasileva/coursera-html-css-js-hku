@@ -6,5 +6,5 @@
 </div>
 
 <div>
-  <p>Please explore <a href="https://github.com/VeraVasileva/coursera-html-css-js-hku/tree/gh-pages">gh-pages branch</a></p>
+  <p><strong>Please go to <a href="https://github.com/VeraVasileva/coursera-html-css-js-hku/tree/gh-pages">gh-pages branch</a></strong></p>
 </div>
